@@ -67,9 +67,9 @@ Enter a natural language description of the family history:
 
 ```
 The proband is a 10-year-old boy affected with cystic fibrosis. 
-His father (54) is a carrier, and his mother (52) is unaffected. 
-He has a twin sister who is unaffected. The paternal grandfather 
-is deceased, and the maternal uncle is also affected.
+His father (35) and mother are unaffected carriers (32). 
+He has a 2 year old sister who is unaffected. His maternal grandparents
+and paternal grandparents are unaffected. He has a maternal uncle who also has cystic fibrosis.
 ```
 
 The AI will generate a complete pedigree with:
